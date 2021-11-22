@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 387D-E1E3
+
+ Directory of C:\GitTest
+
+11/22/2021  03:30 PM    <DIR>          .
+11/22/2021  03:30 PM    <DIR>          ..
+11/22/2021  03:30 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  293,471,834,112 bytes free
